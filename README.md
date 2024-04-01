@@ -16,11 +16,7 @@ Table of Contents
 * Installation
 * Usage
 * Data
-* Contributing
-* Citation
-* License
 * Contact
-* Note on Reproducibility
   
 Installation
 The analysis requires R and RStudio. Below are the instructions to set up your environment.
@@ -65,5 +61,3 @@ Due to privacy and ethical considerations, the raw clinical data used in this an
 Contact
 Feel free to contact me for any queries or potential collaborations related to this project.
 
-Note on Reproducibility
-Files in this repository are being actively edited and organized to promote reproducibility. We are dedicated to ensuring our analyses are transparent and can be easily replicated or built upon by the community. Regular updates will be provided to enhance the reproducibility of our work.
