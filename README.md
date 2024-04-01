@@ -25,9 +25,24 @@ Prerequisites
 * R (latest version)
 * RStudio
 
-Installation Steps
-* 		Download and install R from CRAN
-* 		Download and install RStudio from rstudio.com
+Download and Install R
+R is a free software environment for statistical computing and graphics. Follow these steps to download and install it:
+
+Visit the CRAN (Comprehensive R Archive Network): Navigate to the CRAN website through this link: [CRAN Downloads](https://cran.r-project.org). Select a mirror closest to your location for faster downloads.
+Choose Your Operating System: Click on the link corresponding to your operating system (Windows, Mac, or Linux).
+Download R for Your Operating System:
+For Windows, click on "Download R for Windows" and then on "install R for the first time" to download the installer.
+For Mac, click on "Download R for (Mac) OS X" and download the latest version of R.
+For Linux, instructions will vary depending on your distribution. Follow the provided links to download and install R.
+Install R: Open the downloaded file and follow the installation instructions to install R on your computer.
+
+Download and Install RStudio
+RStudio enhances R's functionality, providing a convenient GUI and additional tools for coding and debugging. To install RStudio:
+Navigate to [RStudio's Download Page](https://posit.co/products/open-source/rstudio/): Go to RStudio Download to view the available versions of RStudio.
+Select the Free Version: Scroll down to the "RStudio Desktop" section and click on the "Download" button under the free version called RStudio Desktop Open Source License.
+Choose Your Operating System: Find the installer link that matches your operating system (Windows, Mac, or Linux) and click on it to download the RStudio installer.
+Install RStudio: Once the download is complete, open the installer file and follow the prompts to install RStudio on your system.
+After completing these steps, you will have both R and RStudio installed and ready for use. You can now proceed with running the scripts and conducting your analysis.
 
 Usage Overview
 
