@@ -8,12 +8,8 @@ This repository contains the data and scripts used in the analysis for my master
 Master's Thesis
 The scripts and clinical scale analyses detailed in this repository were pivotal in the data processing and analysis stages of my master’s thesis. This work laid the groundwork for the subsequent research publication, contributing to a deeper understanding of the neurobiological underpinnings of psychiatric disorders.
 
-Publication Details
-Title: Human olfactory neural progenitor cells reveal differences in IL-6, IL-8, thrombospondin-1, and MCP-1 in major depression disorder and borderline personality disorder
-Authors: Alan P. Davalos-Guzman, Francisco J. Vegas-Rodríguez, Gerardo B. Ramirez-Rodriguez, Mónica Flores-Ramos, Perla V. Romero-Luevano, Jorge Julio Gonzalez Olvera, RICARDO A. SARACCO-ALVAREZ
-Journal: Frontiers in Psychiatry, Section Mood Disorders
-Volume: 15, Year: 2024
-DOI: 10.3389/fpsyt.2024.1283406
+Davalos-Guzman, A. P., Vegas-Rodríguez, F. J., Ramirez-Rodriguez, G. B., Flores-Ramos, M., Romero-Luevano, P. V., Gonzalez Olvera, J. J., & Saracco-Alvarez, R. A. (2024). Human olfactory neural progenitor cells reveal differences in IL-6, IL-8, thrombospondin-1, and MCP-1 in major depression disorder and borderline personality disorder. Frontiers in Psychiatry, Mood Disorders, 15. https://doi.org/10.3389/fpsyt.2024.1283406
+
 The methodologies and findings from this research provide valuable insights into the molecular differences between MDD and BPD, contributing to the broader field of psychiatry and the pursuit of more effective treatments for these complex disorders.
 
 Table of Contents
