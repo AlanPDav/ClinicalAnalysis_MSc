@@ -53,19 +53,19 @@ statistical_analysis: The backbone for executing rigorous statistical tests, pro
 Clinical Scales Analysis
 Our collection of scripts is engineered to dissect and analyze a broad spectrum of clinical scales, catering to a diverse range of data types:
 
-* 		Demographic: Targets the Demographic database, offering insights into population characteristics.
-* 		Neuropsic: Delves into the Neuropsychological database, analyzing cognitive functions and deficits.
-* 		HARS: Applies the Hamilton Anxiety Rating Scale to evaluate anxiety levels.
-* 		HDRS: Utilizes the Hamilton Depression Rating Scale for depression assessment.
-* 		AMAI: Analyzes socioeconomic factors using the AMAI (Asociación Mexicana de Agencias de Investigación de Mercado y Opinión Pública) scale.
-* 		ASIP: Evaluates the severity of addiction with the Addiction Severity Index patient rating scale.
-* 		VAS: Measures the intensity of cocaine craving through the Visual Analogue Scale.
-* 		CCQ-N: Assesses current craving using the Cocaine Craving Questionnaire Now.
-* 		CCQ-G: Gauges general craving over the past week with the Cocaine Craving Questionnaire General.
-* 		SCL-90: Offers a comprehensive overview of general psychiatric symptoms via the Symptom Checklist-90.
-* 		BIS: Measures impulsivity through the Barratt Impulsiveness Scale.
-* 		MINI: Provides psychiatric diagnoses based on the DSM-IV with the MINI International Neuropsychiatric Interview.
-* 		Tobacco: Focuses on tobacco use and habits within the Tobacco use database.
+* Demographic: Targets the Demographic database, offering insights into population characteristics.
+* Neuropsic: Delves into the Neuropsychological database, analyzing cognitive functions and deficits.
+* HARS: Applies the Hamilton Anxiety Rating Scale to evaluate anxiety levels.
+* HDRS: Utilizes the Hamilton Depression Rating Scale for depression assessment.
+* AMAI: Analyzes socioeconomic factors using the AMAI (Asociación Mexicana de Agencias de Investigación de Mercado y Opinión Pública) scale.
+* ASIP: Evaluates the severity of addiction with the Addiction Severity Index patient rating scale.
+* VAS: Measures the intensity of cocaine craving through the Visual Analogue Scale.
+* CCQ-N: Assesses current craving using the Cocaine Craving Questionnaire Now.
+* CCQ-G: Gauges general craving over the past week with the Cocaine Craving Questionnaire General.
+* SCL-90: Offers a comprehensive overview of general psychiatric symptoms via the Symptom Checklist-90.
+* BIS: Measures impulsivity through the Barratt Impulsiveness Scale.
+* MINI: Provides psychiatric diagnoses based on the DSM-IV with the MINI International Neuropsychiatric Interview.
+* Tobacco: Focuses on tobacco use and habits within the Tobacco use database.
 
 Data
 Due to privacy and ethical considerations, the raw clinical data used in this analysis is not provided. However, a sample dataset with anonymized data is included to demonstrate the analysis process.
